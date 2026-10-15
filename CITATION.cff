@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Chiamate: log of support calls and interventions (db, 2001)"
+version: "1.0"
+abstract: "Chiamate is a small help-desk log used by an IT service company: each call records who called, date, type and description of the problem, intervention date, resolution date and solution, with notes."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2001-09-24"
+repository-code: "https://github.com/massimosbarbaro/support-calls-log-access"
+keywords:
+  - "Microsoft Access"
+  - "IT support"
+  - "help desk"
+  - "call log"
+  - "legacy software"
